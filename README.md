@@ -27,8 +27,9 @@ Starch takes two popular open source JavaScript projects, namely Leaflet and Pol
 * Cons
   * Less control of the map
   * Dependencies; we rely on Polymer to give us a nice solid base and scaffolding for our components
-  * Web Components are arguably 'not quite there yet'
+  * Web Components are arguably ['not quite there yet'](http://jonrimmer.github.io/are-we-componentized-yet/)
 
 
 ## License
-MIT
+The MIT License (MIT)
+Copyright (c) 2016 James Milner
