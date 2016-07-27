@@ -1,4 +1,4 @@
-<img src="starch.png" alt="Drawing" width="500px"/>
+<img src="images/starch.png" alt="Drawing" width="500px"/>
 
 ## What is Starch?
 Starch is a declarative mapping library.
